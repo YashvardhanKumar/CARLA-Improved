@@ -1,0 +1,17 @@
+arch
+faiss-cpu
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+torch
+torchaudio
+torchmetrics
+torchvision
+faiss-cpu
+easydict
+pyyaml
+transformers
+termcolor
